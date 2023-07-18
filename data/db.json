@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "price": 98,
+      "title": "kaka",
+      "id": 2
+    },
+    {
+      "title": "",
+      "id": 3
+    },
+    {
+      "price": 23,
+      "title": "baab",
+      "id": 4
+    }
+  ]
+}
